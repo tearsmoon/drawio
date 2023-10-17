@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T14:54:33.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="O9L8lSdIJZcUTDn8dT6b" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T14:54:46.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="c3y1zVorPjHBk1oxO_Gw" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="1769" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1582,7 +1582,7 @@
         <mxCell id="SWTvNHedjEexJS_CHakL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SWTvNHedjEexJS_CHakL-6" target="SWTvNHedjEexJS_CHakL-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SWTvNHedjEexJS_CHakL-6" value="校验CA签名&lt;br&gt;主机名验证" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SWTvNHedjEexJS_CHakL-6" value="校验CA签名&lt;br&gt;验证主机名" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-476.3" y="4295" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="SWTvNHedjEexJS_CHakL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SWTvNHedjEexJS_CHakL-7" target="1-QfFzFVaWJn7AieKZZL-106" edge="1">
