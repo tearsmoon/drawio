@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T15:05:09.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="ym_7SEUMEuvn6Dpttik_" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T16:34:54.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="0El9N6lXVB7Qi0WkhE87" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="1769" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1610,7 +1610,7 @@
             <mxPoint x="3.1199999999999273" y="5230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-4" value="超时重传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="zQ791yjo0WZYl8ZJU55g-4" value="确认机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-176.42" y="5160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zQ791yjo0WZYl8ZJU55g-5" value="第一次握手" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
