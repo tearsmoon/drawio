@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T15:13:56.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="mvvF2e5bd-fi-HI1TNIz" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T15:27:21.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="NMeOZU_JXhbfisQ2CS86" version="22.0.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="3423" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
         <mxCell id="KRev_iM4Jv4Y9EaLXWhe-5" value="Map&amp;lt;String, FeignClientSpecification&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="181.75" y="5755" width="442.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KRev_iM4Jv4Y9EaLXWhe-32" value="Map&amp;lt;String, AnnotationConfigApplicationContext&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KRev_iM4Jv4Y9EaLXWhe-32" value="Map&amp;lt;String, AnnotationConfigApplicationContext&amp;gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;context.getBean(lbType)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="173.44" y="4892" width="442.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KRev_iM4Jv4Y9EaLXWhe-33" value="Map&amp;lt;String, LoadBalancerClientSpecification&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
