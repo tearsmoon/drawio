@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T02:37:14.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="4356sQZmKdn_CuY-0AAn" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T02:37:54.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="T9zJ-pY2XoQDTfQci642" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="2496" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1660,6 +1660,12 @@
         </mxCell>
         <mxCell id="zQ791yjo0WZYl8ZJU55g-31" value="确认机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-141.42" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zQ791yjo0WZYl8ZJU55g-32" value="流控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-122.17" y="625" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zQ791yjo0WZYl8ZJU55g-33" value="流控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-131.42" y="790" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
