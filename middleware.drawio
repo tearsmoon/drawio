@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T23:24:22.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="Tgv-VWlnIKdzkWo95-00" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T01:25:56.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="WFfIZLGSYy6RCmWco0NM" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="1874" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1319,8 +1319,8 @@
         <mxCell id="9n-n1iBPHZ0IUt7xd2MY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GEgLhVlXAB5wURAWG2Ov-21" target="GEgLhVlXAB5wURAWG2Ov-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9n-n1iBPHZ0IUt7xd2MY-8" value="Consumer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Producer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="546" width="120" height="60" as="geometry" />
+        <mxCell id="9n-n1iBPHZ0IUt7xd2MY-8" value="Consumer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Producer&lt;br&gt;（RocketMQTemplate）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="362.5" y="546" width="145" height="74" as="geometry" />
         </mxCell>
         <mxCell id="9n-n1iBPHZ0IUt7xd2MY-9" value="Binder&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Binding&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Message&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MessageChannel（poll/push）&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;StreamBridge&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BusBridge&amp;amp;Event" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="640" width="120" height="190" as="geometry" />
