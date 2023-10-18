@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T02:43:12.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="QB1e-sNTEqALqEe-2562" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T02:46:00.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="gn3aXXhlcbQj86_1sp-M" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="2496" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,11 +193,11 @@
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-29" value="discovery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3.75" y="450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GEgLhVlXAB5wURAWG2Ov-31" value="同步/异步 send" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-143.74999999999994" y="570" width="100" height="30" as="geometry" />
+        <mxCell id="GEgLhVlXAB5wURAWG2Ov-31" value="同步/异步 send&lt;br&gt;确认机制 重投&lt;br&gt;流控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-148.17999999999995" y="540" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GEgLhVlXAB5wURAWG2Ov-33" value="pull/push receive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-155.00000000000003" y="720" width="110" height="30" as="geometry" />
+        <mxCell id="GEgLhVlXAB5wURAWG2Ov-33" value="pull/push receive&lt;br&gt;确认机制 重试&lt;br&gt;流控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-155.48000000000002" y="690" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-35" value="broker master-slave cluster 物理机器集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-638.75" y="525" width="240" height="30" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="-610" y="582.5" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-50" value="刷盘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="870" width="470" height="60" as="geometry" />
+          <mxGeometry x="-640.62" y="880" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="1320" width="310" height="190" as="geometry" />
@@ -1652,20 +1652,8 @@
         <mxCell id="zQ791yjo0WZYl8ZJU55g-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dYZf33wxHx9ybI3jIAu1-14" target="dYZf33wxHx9ybI3jIAu1-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-29" value="确认机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-407.9" y="840" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-30" value="确认机制 重投" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-141" y="600" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-31" value="确认机制 重试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-156.42" y="760" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-32" value="流控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-122.17" y="625" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-33" value="流控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-131.42" y="790" width="50" height="30" as="geometry" />
+        <mxCell id="zQ791yjo0WZYl8ZJU55g-29" value="确认机制&lt;br&gt;同步/异步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-378.71" y="835" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
