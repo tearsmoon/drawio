@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T00:55:25.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="hndF7-UEMRC_t5X8TkB6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T00:56:36.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="AtEUAQsxZZZMHVAWomKM" version="22.0.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="4248" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,7 +813,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXHC1qzvz30r8LCaRYrL-87" value="client" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="GXHC1qzvz30r8LCaRYrL-87" value="网站A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="41.809999999999995" y="6390" width="75" height="325" as="geometry" />
         </mxCell>
         <mxCell id="GXHC1qzvz30r8LCaRYrL-93" value="同意授权后重定向携带authorization_code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1027,6 +1027,12 @@
         </mxCell>
         <mxCell id="21ADhYOM5bDmx4pO5tFE-4" value="RoutePredicateFactory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554.6899999999999" y="4224" width="363" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="21ADhYOM5bDmx4pO5tFE-6" value="微信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="319" y="6383" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21ADhYOM5bDmx4pO5tFE-7" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="151.5" y="6408.25" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
