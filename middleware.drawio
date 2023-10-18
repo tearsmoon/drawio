@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T02:04:56.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="ihLBFVAMhmsQGkY09pAp" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T02:30:45.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="55RTcnrdUTJU1dzcjgyv" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="2496" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,8 +199,8 @@
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-33" value="pull/push receive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-155.00000000000003" y="720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GEgLhVlXAB5wURAWG2Ov-35" value="broker master-slave cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="525" width="170" height="30" as="geometry" />
+        <mxCell id="GEgLhVlXAB5wURAWG2Ov-35" value="broker master-slave cluster 物理机器集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-638.75" y="525" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-36" value="2pc-tx，timer/depay，order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-540.62" y="625" width="270" height="110" as="geometry" />
