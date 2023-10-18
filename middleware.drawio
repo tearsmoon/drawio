@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T01:39:28.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="PAry82CvBH4mKieuIIIi" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T01:40:24.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="VZmTi2l4MhZYxdyx3qZ4" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="2496" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1361,7 +1361,7 @@
             <mxPoint x="1320" y="1924.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-13" value="Kubectl&lt;br&gt;CLI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-13" value="Kubectl&lt;br&gt;CLI&lt;br&gt;控制面板" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-596.9" y="5917.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
