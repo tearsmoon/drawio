@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T01:25:56.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="WFfIZLGSYy6RCmWco0NM" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T01:32:41.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="f6Orb60nQMcQsOxPv_L0" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
-    <mxGraphModel dx="1874" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2496" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1397,8 +1397,8 @@
         <mxCell id="dYZf33wxHx9ybI3jIAu1-20" value="&amp;nbsp;ClusterStateStore&lt;br&gt;Etcd" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-375.75" y="6043.25" width="400" height="76.75" as="geometry" />
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-29" value="Node....." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="167.25" y="5710" width="70" height="30" as="geometry" />
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-29" value="物理机器 Node....." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="167.32" y="5710" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dYZf33wxHx9ybI3jIAu1-30" target="dYZf33wxHx9ybI3jIAu1-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
