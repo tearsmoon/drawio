@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T07:41:32.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="6nZmgA8EjiVashSHjHm_" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T01:53:20.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="IESPtTt6_a0thi88oxCR" version="22.0.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="4248" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1033,6 +1033,15 @@
         </mxCell>
         <mxCell id="21ADhYOM5bDmx4pO5tFE-7" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="151.5" y="6408.25" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21ADhYOM5bDmx4pO5tFE-8" value="成品bean" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219.75" y="207.5" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21ADhYOM5bDmx4pO5tFE-9" value="半成品bean" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219.75" y="267.5" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21ADhYOM5bDmx4pO5tFE-10" value="lambda &lt;br&gt;aop" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219.75" y="327.5" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
