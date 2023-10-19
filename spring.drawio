@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T01:53:20.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="IESPtTt6_a0thi88oxCR" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T01:53:32.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="Khgd0dhTlzolSD1A8l5P" version="22.0.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="4248" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
           <mxGeometry x="24.18" y="-150" width="490" height="540" as="geometry" />
         </mxCell>
         <mxCell id="V2kQxAzgLIzO_4P0HWAn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="aqGw6CmQRWcVKoaSbXMj-1" target="aqGw6CmQRWcVKoaSbXMj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21ADhYOM5bDmx4pO5tFE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aqGw6CmQRWcVKoaSbXMj-1" target="21ADhYOM5bDmx4pO5tFE-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aqGw6CmQRWcVKoaSbXMj-1" value="DefaultSingletonBeanRegistry&lt;br&gt;三级缓存&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;防止同时创建同名bean并将bean的创建逻辑开放给下一层&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向3L添加一个ObjectFactory&lt;br&gt;向1L缓存添加一个bean&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
