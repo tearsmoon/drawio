@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T21:00:03.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="jsQA0Qk76wAnnLGuCz7X" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T23:30:10.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="xJv8QxExQ_FErpmtP_i4" version="22.0.5" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
-    <mxGraphModel dx="3800" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4658" dy="2295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1748,6 +1748,9 @@
         </mxCell>
         <mxCell id="J06CJSa6QxlfaAUaUPfF-1" value="AuthService" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="194.35000000000002" y="3897.5" width="104.79" height="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-2" value="流量" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="-1370.62" y="3814.5" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
