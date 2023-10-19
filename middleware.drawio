@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T04:32:44.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="46wKSTKLqd0N7S2j8O1r" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T07:48:51.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="lxWAcpcrQ_l9Fsb0R6Qu" version="22.0.4" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
-    <mxGraphModel dx="2496" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2594" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1382,13 +1382,13 @@
         <mxCell id="dYZf33wxHx9ybI3jIAu1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dYZf33wxHx9ybI3jIAu1-17" target="dYZf33wxHx9ybI3jIAu1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-17" value="API Server&lt;br&gt;rest api&lt;br&gt;认证Authentication：X509-HTTPS/Token/Account....&lt;br&gt;授权Authorization&lt;br&gt;准入控制AdmissionControl&lt;br&gt;privateKey" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-17" value="API Server&lt;br&gt;rest api&lt;br&gt;认证Authentication：X509-HTTPS/Token/Account....&lt;br&gt;授权Authorization&lt;br&gt;准入控制AdmissionControl&lt;br&gt;privateKey" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-351.58" y="5760" width="350" height="138.25" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-18" value="Scheduler&lt;br&gt;将Pod调度到合适的Node上" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-385" y="5940" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-19" value="Controller Manager&lt;br&gt;监控并控制集群状态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-19" value="Controller Manager&lt;br&gt;监控并控制集群状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-160" y="5940" width="183.93" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-20" value="Etcd&lt;br&gt;&amp;nbsp;ClusterStateStore" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1403,16 +1403,16 @@
         <mxCell id="zQ791yjo0WZYl8ZJU55g-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dYZf33wxHx9ybI3jIAu1-30" target="dYZf33wxHx9ybI3jIAu1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-30" value="kubelet&lt;br&gt;注册/上报/控制node&lt;br&gt;HeartBeat" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-30" value="kubelet&lt;br&gt;注册/上报/控制node&lt;br&gt;HeartBeat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="196.75" y="5782.5" width="190" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dYZf33wxHx9ybI3jIAu1-31" target="dYZf33wxHx9ybI3jIAu1-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-31" value="kube-proxy&lt;br&gt;将Pod暴露为Service&lt;br&gt;对外提供稳定的IP/DNS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-31" value="kube-proxy&lt;br&gt;将Pod暴露为Service&lt;br&gt;对外提供稳定的IP/DNS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="426.75" y="5782.5" width="180" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="226.54" y="5900" width="353.25" height="212.5" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-34" value="Container Runtime (Docker)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
