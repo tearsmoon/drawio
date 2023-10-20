@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T22:55:31.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="bQouTKSbQPHWvEVr0lJb" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T23:09:15.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="uMIje8DhGnBY0dqYZlhd" version="22.0.5" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="3800" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1762,8 +1762,8 @@
         <mxCell id="J06CJSa6QxlfaAUaUPfF-3" value="nacos 主从集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-455" y="3330" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J06CJSa6QxlfaAUaUPfF-4" value="副本集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-455" y="3860" width="70" height="30" as="geometry" />
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-4" value="服务副本集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-452.15" y="3860" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
