@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:08:21.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="muWkJaJxchYQLSHi4yQf" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:24:17.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="yGCQf9rMyJ3KxUL8WcR-" version="22.0.5" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="3421" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="525" width="470" height="305" as="geometry" />
+          <mxGeometry x="-970" y="525" width="800" height="305" as="geometry" />
         </mxCell>
         <mxCell id="GEgLhVlXAB5wURAWG2Ov-48" value="" style="rounded=0;whiteSpace=wrap;html=1;endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-610" y="582.5" width="408.75" height="190" as="geometry" />
@@ -1773,6 +1773,18 @@
         </mxCell>
         <mxCell id="J06CJSa6QxlfaAUaUPfF-8" value="rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-504.11" y="6190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-11" value="brokerMaster1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-930.46" y="612.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-12" value="brokerMaster2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-765.46" y="612.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-13" value="brokerSlave1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-930.46" y="672.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-14" value="brokerSlave2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-765.46" y="672.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
