@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:28:39.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="C09khjQKaaqOmeM-JIDP" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:30:11.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="3SoOHbgHOE1ZR5gpNwRL" version="22.0.5" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="3421" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1662,7 +1662,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zQ791yjo0WZYl8ZJU55g-29" value="确认机制&lt;br&gt;同步/异步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-395.75999999999993" y="770" width="70" height="40" as="geometry" />
+          <mxGeometry x="-557.3299999999999" y="770" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zQ791yjo0WZYl8ZJU55g-35" value="死信队列" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-757.5" y="704.75" width="410" height="30" as="geometry" />
