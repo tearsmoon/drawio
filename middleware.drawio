@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:02:42.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="q_BuRc0rPyS9yNoBFovo" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:04:05.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="yXDJTyXoe4Vas1w6X9vW" version="22.0.5" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
-    <mxGraphModel dx="3156" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3421" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1391,7 +1391,7 @@
         <mxCell id="dYZf33wxHx9ybI3jIAu1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dYZf33wxHx9ybI3jIAu1-17" target="dYZf33wxHx9ybI3jIAu1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dYZf33wxHx9ybI3jIAu1-17" value="API Server&lt;br&gt;rest api&lt;br&gt;认证Authentication：X509-HTTPS/Token/Account....&lt;br&gt;授权Authorization&lt;br&gt;准入控制AdmissionControl&lt;br&gt;privateKey" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="dYZf33wxHx9ybI3jIAu1-17" value="API Server&lt;br&gt;认证Authentication：X509-HTTPS/Token/Account....&lt;br&gt;授权Authorization&lt;br&gt;准入控制AdmissionControl&lt;br&gt;privateKey" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-357.78999999999996" y="6120" width="350" height="138.25" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-18" value="Scheduler&lt;br&gt;将Pod调度到合适的Node上" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1770,6 +1770,9 @@
         </mxCell>
         <mxCell id="J06CJSa6QxlfaAUaUPfF-6" value="dockerfile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-334" y="1390" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-8" value="rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-504.11" y="6190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
