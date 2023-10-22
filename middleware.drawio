@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:04:05.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="yXDJTyXoe4Vas1w6X9vW" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:07:47.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="5d9gODoEc1H9CyT7KUVO" version="22.0.5" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
     <mxGraphModel dx="3421" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1397,6 +1397,9 @@
         <mxCell id="dYZf33wxHx9ybI3jIAu1-18" value="Scheduler&lt;br&gt;将Pod调度到合适的Node上" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-391.21" y="6300" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J06CJSa6QxlfaAUaUPfF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dYZf33wxHx9ybI3jIAu1-19" target="dYZf33wxHx9ybI3jIAu1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-19" value="Controller Manager&lt;br&gt;监控并控制集群状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-166.21" y="6300" width="183.93" height="60" as="geometry" />
         </mxCell>
@@ -1407,9 +1410,6 @@
           <mxGeometry x="161.10999999999999" y="6070" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dYZf33wxHx9ybI3jIAu1-30" target="dYZf33wxHx9ybI3jIAu1-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dYZf33wxHx9ybI3jIAu1-30" target="dYZf33wxHx9ybI3jIAu1-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dYZf33wxHx9ybI3jIAu1-30" value="kubelet&lt;br&gt;注册/上报/控制node&lt;br&gt;HeartBeat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -1656,9 +1656,6 @@
           <mxGeometry x="-146.30000000000004" y="3625" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zQ791yjo0WZYl8ZJU55g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1-QfFzFVaWJn7AieKZZL-14" target="1-QfFzFVaWJn7AieKZZL-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zQ791yjo0WZYl8ZJU55g-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dYZf33wxHx9ybI3jIAu1-14" target="dYZf33wxHx9ybI3jIAu1-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zQ791yjo0WZYl8ZJU55g-29" value="确认机制&lt;br&gt;同步/异步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
