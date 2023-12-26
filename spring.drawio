@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:50:15.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IwPXaE9KugPeFL_seexa" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T03:50:41.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="c3FOKtGO4enaSYS-hHEM" version="22.1.11" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="3771" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1030,8 +1030,8 @@
         <mxCell id="21ADhYOM5bDmx4pO5tFE-6" value="微信" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="331" y="6383" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="21ADhYOM5bDmx4pO5tFE-7" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="106.75" y="6390" width="50" height="30" as="geometry" />
+        <mxCell id="21ADhYOM5bDmx4pO5tFE-7" value="用户&amp;amp;浏览器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="109.06" y="6390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="21ADhYOM5bDmx4pO5tFE-8" value="成品bean" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-219.75" y="207.5" width="180" height="60" as="geometry" />
