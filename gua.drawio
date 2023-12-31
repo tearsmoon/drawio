@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T02:13:59.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8_S3hHWWce14llNN6goz" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T03:09:16.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5wK7l-le9lEOophQrqcW" version="22.1.16" type="github">
   <diagram name="第 1 页" id="CXnDwjRMGaUGsgp23o9j">
     <mxGraphModel dx="2117" dy="4048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
             <mxPoint x="300" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9N7CqTvN4q7yRGdAjkwI-42" value="mkfifo pipe&lt;br&gt;read/write" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="-230" width="90" height="440" as="geometry" />
+        <mxCell id="9N7CqTvN4q7yRGdAjkwI-42" value="pipe&lt;br&gt;命名管道 mkfifo&lt;br&gt;匿名管道&amp;nbsp;pipe&lt;br&gt;read/write&lt;br&gt;重定向" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="-230" width="170" height="440" as="geometry" />
         </mxCell>
         <mxCell id="Gc67HA7nKRYaJuzNz2d2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Gc67HA7nKRYaJuzNz2d2-1" target="Gc67HA7nKRYaJuzNz2d2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -562,6 +562,9 @@
         </mxCell>
         <mxCell id="CYDQbAtZ5SAw5Xn96PkI-5" value="fd3/4/5..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="119" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYDQbAtZ5SAw5Xn96PkI-6" value="环境变量&amp;nbsp;environ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
