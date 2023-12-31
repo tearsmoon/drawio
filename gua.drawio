@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T05:26:29.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="vE61sxELfMvgkLjuBoxE" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T06:06:12.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kPZSRKkq_fdLudz_nCZM" version="22.1.16" type="github">
   <diagram name="第 1 页" id="CXnDwjRMGaUGsgp23o9j">
     <mxGraphModel dx="2117" dy="4048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -514,8 +514,8 @@
         <mxCell id="nsbCHV1jgP-7_xdYhr4n-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="270" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nsbCHV1jgP-7_xdYhr4n-3" value="signal &amp;amp; handler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="275" y="360" width="110" height="30" as="geometry" />
+        <mxCell id="nsbCHV1jgP-7_xdYhr4n-3" value="signal &amp;amp; handler&lt;br&gt;SIGINT &amp;amp; SIGTSTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="265" y="370" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nsbCHV1jgP-7_xdYhr4n-20" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
           <mxGeometry x="75" y="565" width="305" height="55" as="geometry" />
@@ -565,6 +565,9 @@
         </mxCell>
         <mxCell id="CYDQbAtZ5SAw5Xn96PkI-6" value="环境变量&amp;nbsp;environ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-620" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYDQbAtZ5SAw5Xn96PkI-7" value="wait&lt;br&gt;waitpid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
