@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T03:23:18.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="J69wEqClWfOLbTFQRKPU" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T06:29:05.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="__XjmMUNkJtko4bHiK1w" version="24.4.8" type="github">
   <diagram id="q74jGIT0rdsw6B9sfl-8" name="Page-1">
-    <mxGraphModel dx="2944" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2944" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1767,9 +1767,6 @@
         </mxCell>
         <mxCell id="J06CJSa6QxlfaAUaUPfF-4" value="服务副本集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-452.15" y="3860" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J06CJSa6QxlfaAUaUPfF-6" value="dockerfile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-334" y="1390" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J06CJSa6QxlfaAUaUPfF-8" value="rest api" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-504.11" y="6190" width="60" height="30" as="geometry" />
