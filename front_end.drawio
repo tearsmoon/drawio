@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T01:34:03.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2erqGY1mNKZqw14k-KFz" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T04:32:05.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5sbU_MjME6W9buL9R1Eu" version="24.4.9" type="github">
   <diagram name="第 1 页" id="iPS6HVGLW1SrAcprsppf">
     <mxGraphModel dx="2944" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="afo_pyAmu8-UiAz8hPJM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="afo_pyAmu8-UiAz8hPJM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="50" y="1163.38" width="160" height="148.62" as="geometry" />
         </mxCell>
         <mxCell id="JMKDhtqxmlvjyK2qhB1a-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LXfF-YWZQVNyhR4ZuVaO-36" target="LXfF-YWZQVNyhR4ZuVaO-30" edge="1">
@@ -45,11 +45,6 @@
         <mxCell id="LXfF-YWZQVNyhR4ZuVaO-25" value="return" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="1060" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LXfF-YWZQVNyhR4ZuVaO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="LXfF-YWZQVNyhR4ZuVaO-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="1237" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LXfF-YWZQVNyhR4ZuVaO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="afo_pyAmu8-UiAz8hPJM-7" target="LXfF-YWZQVNyhR4ZuVaO-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,9 +68,6 @@
         </mxCell>
         <mxCell id="LXfF-YWZQVNyhR4ZuVaO-39" value="setter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="1263.75" width="120" height="33.75" as="geometry" />
-        </mxCell>
-        <mxCell id="LXfF-YWZQVNyhR4ZuVaO-44" value="collect as dependency &amp;amp; notify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1120" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXfF-YWZQVNyhR4ZuVaO-46" value="mount/patch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="1330" width="90" height="30" as="geometry" />
@@ -116,17 +108,23 @@
         <mxCell id="vvZSCv6aeTukqmLSNkZY-14" value="&lt;div&gt;flex元素：&lt;/div&gt;&lt;div&gt;控制元素在主轴方向的初始尺寸和缩放比例&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-581" y="348.25" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="afo_pyAmu8-UiAz8hPJM-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+        <mxCell id="afo_pyAmu8-UiAz8hPJM-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-710.52" y="259.6" as="sourcePoint" />
             <mxPoint x="-120" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="afo_pyAmu8-UiAz8hPJM-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+        <mxCell id="afo_pyAmu8-UiAz8hPJM-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-710.04" y="260.4" as="sourcePoint" />
             <mxPoint x="-710" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EoJiojomt65r6VDfAmnt-2" value="getter：collect as dependency&lt;br&gt;setter：notify" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1115" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EoJiojomt65r6VDfAmnt-6" value="双向绑定：Listener + Watcher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="202" y="1405" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
