@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T14:01:19.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qIXrjiHKPY-RtPMoQXFJ" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T01:30:45.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="omAxoUkeU32cj466_NfI" version="24.4.8" type="github">
   <diagram name="第 1 页" id="iPS6HVGLW1SrAcprsppf">
     <mxGraphModel dx="2944" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,23 +91,35 @@
         <mxCell id="JMKDhtqxmlvjyK2qhB1a-4" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;content&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="339.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vvZSCv6aeTukqmLSNkZY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="260" width="530" height="300" as="geometry" />
+        <mxCell id="vvZSCv6aeTukqmLSNkZY-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-701" y="269" width="530" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="vvZSCv6aeTukqmLSNkZY-4" value="主轴 main axis：项目沿着主轴排列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vvZSCv6aeTukqmLSNkZY-4" value="主轴 main axis：项目沿着主轴排列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-550" y="230" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vvZSCv6aeTukqmLSNkZY-5" value="交叉轴 cross axis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="vvZSCv6aeTukqmLSNkZY-5" value="交叉轴 cross axis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-830" y="390" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vvZSCv6aeTukqmLSNkZY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-595" y="337.25" width="290" height="135.5" as="geometry" />
+        <mxCell id="vvZSCv6aeTukqmLSNkZY-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-586" y="346.25" width="290" height="135.5" as="geometry" />
         </mxCell>
-        <mxCell id="vvZSCv6aeTukqmLSNkZY-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;flex容器：&lt;/span&gt;&lt;/div&gt;控制主轴方向，两轴上的对齐方式，主轴上的换行方式，主轴上的多行在交叉轴上的对齐方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="260" width="520" height="40" as="geometry" />
+        <mxCell id="vvZSCv6aeTukqmLSNkZY-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;flex容器：&lt;/span&gt;&lt;/div&gt;控制主轴方向，两轴上的对齐方式，主轴上的换行方式，主轴上的多行在交叉轴上的对齐方式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-701" y="269" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vvZSCv6aeTukqmLSNkZY-14" value="&lt;div&gt;flex元素：&lt;/div&gt;&lt;div&gt;控制元素在主轴方向的初始尺寸，元素的缩放比例&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="339.25" width="290" height="40" as="geometry" />
+        <mxCell id="vvZSCv6aeTukqmLSNkZY-14" value="&lt;div&gt;flex元素：&lt;/div&gt;&lt;div&gt;控制元素在主轴方向的初始尺寸和缩放比例&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-581" y="348.25" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="afo_pyAmu8-UiAz8hPJM-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710.52" y="259.6" as="sourcePoint" />
+            <mxPoint x="-120" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afo_pyAmu8-UiAz8hPJM-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.002;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710.04" y="260.4" as="sourcePoint" />
+            <mxPoint x="-710" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
