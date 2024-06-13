@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T07:33:56.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s4nuV7Xjx9juVzocuxjV" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T09:29:13.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jAnLxj4ITCCofbSF1EHS" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -712,7 +712,7 @@
         <mxCell id="GXHC1qzvz30r8LCaRYrL-29" value="配置监听、刷新&lt;br&gt;定时任务LongPollTask&lt;br&gt;Listener" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1263.5" y="3740" width="205" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="GXHC1qzvz30r8LCaRYrL-32" value="namespace&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;group&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;serviceId/dataId" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GXHC1qzvz30r8LCaRYrL-32" value="namespace&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;group&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;serviceId服务隔离/dataId配置隔离" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1240" y="3520" width="540" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GXHC1qzvz30r8LCaRYrL-33" value="服务注册、发现&lt;br&gt;定时任务HeartBeatTask&lt;br&gt;定时任务UpdateServiceTask&lt;br&gt;Listener" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
