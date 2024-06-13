@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T01:23:10.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rNDcnSI6z4SRTupsvbAV" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T01:28:47.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rmtNptowbjlQ2Fz_QbSz" version="24.5.3" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4441,8 +4441,8 @@
             <mxPoint x="5477.91" y="5507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-438" value="确认机制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5298.37" y="5437" width="70" height="30" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-438" value="对每个包进行确认" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5273.37" y="5437" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-439" value="第一次握手" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5259.04" y="4484.5" width="80" height="30" as="geometry" />
