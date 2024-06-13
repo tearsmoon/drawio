@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T01:28:47.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rmtNptowbjlQ2Fz_QbSz" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T01:33:20.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Bldw3EFKwEYxcyO8i_0S" version="24.5.3" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4729,6 +4729,9 @@
         </mxCell>
         <mxCell id="AYkzG7A6DdoDt-Ax8k8a-9" value="路由器2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5358.58" y="5840" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-14" value="2MSL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5307.25" y="5507" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
