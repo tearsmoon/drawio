@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T05:33:10.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GrZgbpfXjHzHX_UyApZb" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T07:33:56.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s4nuV7Xjx9juVzocuxjV" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
-    <mxGraphModel dx="7307" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -778,7 +778,7 @@
         <mxCell id="GXHC1qzvz30r8LCaRYrL-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GXHC1qzvz30r8LCaRYrL-80" target="GXHC1qzvz30r8LCaRYrL-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GXHC1qzvz30r8LCaRYrL-80" value="client：jwt、token" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GXHC1qzvz30r8LCaRYrL-80" value="client：jwt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="176.5" y="6090" width="211.62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GXHC1qzvz30r8LCaRYrL-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="GXHC1qzvz30r8LCaRYrL-81" target="GXHC1qzvz30r8LCaRYrL-80" edge="1">
