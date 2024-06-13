@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T05:31:38.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Kkbh1VHx3VGlPmvNuf-n" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T05:33:10.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GrZgbpfXjHzHX_UyApZb" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7307" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4282,6 +4282,9 @@
           <mxGeometry x="5342.87" y="6737" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="USxSuideq8Q494F9H64S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvNL8cjYNVi3jmxIVLEG-388" target="QvNL8cjYNVi3jmxIVLEG-359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="USxSuideq8Q494F9H64S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QvNL8cjYNVi3jmxIVLEG-388" target="QvNL8cjYNVi3jmxIVLEG-390">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-388" value="istio-ingressgateway" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
