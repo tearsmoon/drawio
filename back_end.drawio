@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T09:29:13.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jAnLxj4ITCCofbSF1EHS" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T09:40:03.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nqOvJQ3tJFfhRQBOO1yE" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,32 +350,8 @@
         <mxCell id="ovPs951zUUgyFUGP9RZu-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="473" y="5290" width="582.5" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="495.5" y="5400" width="540" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="ovPs951zUUgyFUGP9RZu-24" value="SentinelInvocationHandler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="473" y="5290" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-25" value="encoder/decoder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="5450" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-26" value="RequestInterceptor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="638" y="5450" width="125" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-27" value="contract" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="775.5" y="5450" width="102.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-28" value="Target" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="573" y="5335" width="125" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-29" value="FallbackFactory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="833" y="5335" width="125" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-31" value="Retryer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="898" y="5450" width="122.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-37" value="Map&amp;lt;Method, MethodHandler&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="493" y="5400" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ovPs951zUUgyFUGP9RZu-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-190.5" y="5290" width="582.5" height="270" as="geometry" />
@@ -383,8 +359,8 @@
         <mxCell id="ovPs951zUUgyFUGP9RZu-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-168" y="5400" width="540" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ovPs951zUUgyFUGP9RZu-40" value="FeignInvocationHandler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-190.5" y="5290" width="150" height="30" as="geometry" />
+        <mxCell id="ovPs951zUUgyFUGP9RZu-40" value="FeignCircuitBreakerInvocationHandler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-191.5" y="5290" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ovPs951zUUgyFUGP9RZu-41" value="encoder/decoder" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-155.5" y="5450" width="115" height="40" as="geometry" />
