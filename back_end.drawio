@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T10:14:36.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LnKk1M2IbRZJCd1fCGZa" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T10:18:17.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="k2BttedHJog54B5YVoWN" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7307" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -722,7 +722,7 @@
           <mxGeometry x="1393.25" y="4640" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GXHC1qzvz30r8LCaRYrL-61" value="sentinel dashboard" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2051.25" y="4624" width="262" height="90" as="geometry" />
+          <mxGeometry x="2044.25" y="4664" width="262" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GXHC1qzvz30r8LCaRYrL-69" value="from gateway、feign" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="573" y="3430" width="130" height="30" as="geometry" />
@@ -4736,7 +4736,7 @@
         <mxCell id="USxSuideq8Q494F9H64S-9" value="流量入口：适配各种框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1490.25" y="4377.5" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="USxSuideq8Q494F9H64S-10" value="DegradeSlot&lt;br&gt;AuthoritySlot&lt;br&gt;FlowSlot&lt;br&gt;......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="USxSuideq8Q494F9H64S-10" value="NodeSelectorSlot（ResourceTree）&lt;br&gt;FlowSlot&lt;br&gt;......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1486.25" y="4697.5" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="USxSuideq8Q494F9H64S-11" value="Res1的SlotChain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -4747,12 +4747,6 @@
         </mxCell>
         <mxCell id="USxSuideq8Q494F9H64S-13" value="Res2的SlotChain" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1482.25" y="4820" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="USxSuideq8Q494F9H64S-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="USxSuideq8Q494F9H64S-14" target="GXHC1qzvz30r8LCaRYrL-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="USxSuideq8Q494F9H64S-14" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;ResourceTreeNode&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1162.25" y="4785" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="USxSuideq8Q494F9H64S-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="USxSuideq8Q494F9H64S-16" target="GXHC1qzvz30r8LCaRYrL-55">
           <mxGeometry relative="1" as="geometry" />
