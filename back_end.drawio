@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T01:16:38.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mfaQbYetLN9nKdtIkOwE" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T01:23:10.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rNDcnSI6z4SRTupsvbAV" version="24.5.3" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4063,11 +4063,11 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-325" value="arp缓存表&lt;br&gt;（ip映射到mac）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4773.37" y="5547" width="138.12" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-327" target="QvNL8cjYNVi3jmxIVLEG-442" edge="1">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvNL8cjYNVi3jmxIVLEG-327" target="AYkzG7A6DdoDt-Ax8k8a-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-327" value="网关&lt;br&gt;路由表：&lt;br&gt;连接子网&lt;br&gt;目标IP，子网掩码，下一跳IP，端口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5222.79" y="5829" width="232" height="90" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-327" value="网关，连接子网&lt;br&gt;路由表：&lt;br&gt;目标IP(不变)，子网掩码，下一跳IP，端口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5070.25" y="5840" width="232" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-328" value="service1(TM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="5055.23" y="-310" width="90" height="30" as="geometry" />
@@ -4450,11 +4450,14 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-441" target="QvNL8cjYNVi3jmxIVLEG-327" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-441" value="交换机连接的子网" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4912.79" y="5849" width="292" height="50" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-441" value="交换机&lt;br&gt;连接子网" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="4723.35" y="5860" width="292" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-442" value="交换机连接的子网" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5476.62" y="5849" width="292" height="50" as="geometry" />
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvNL8cjYNVi3jmxIVLEG-442" target="AYkzG7A6DdoDt-Ax8k8a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-442" value="交换机&lt;br&gt;连接子网" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5646.75" y="5861" width="292" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-443" value="源IP和目的IP一直不变&lt;br&gt;MAC地址动态变化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5263.37" y="5571" width="140" height="40" as="geometry" />
@@ -4706,20 +4709,26 @@
         <mxCell id="aE67SVIjbG9Zlr-X09Oq-7" value="create" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-4530" y="715" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-2" value="路由器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5222.25" y="5829" width="60" height="30" as="geometry" />
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-2" value="路由器1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5064.71" y="5840" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYkzG7A6DdoDt-Ax8k8a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYkzG7A6DdoDt-Ax8k8a-3" target="QvNL8cjYNVi3jmxIVLEG-441">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-3" value="设备" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4719.58" y="5844" width="120" height="60" as="geometry" />
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-3" value="发送设备&lt;br&gt;arp" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4567.04" y="5855" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYkzG7A6DdoDt-Ax8k8a-4" target="QvNL8cjYNVi3jmxIVLEG-442">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-4" value="接收设备&lt;br&gt;arp" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5977.46" y="5856" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYkzG7A6DdoDt-Ax8k8a-7" target="QvNL8cjYNVi3jmxIVLEG-442">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-4" value="设备" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5835.5" y="5844" width="120" height="60" as="geometry" />
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5358.58" y="5840" width="232" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-9" value="路由器2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5358.58" y="5840" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
