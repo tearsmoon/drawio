@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T10:18:17.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="k2BttedHJog54B5YVoWN" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T13:41:23.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="d8RpIbcpr-JLZGB9POa0" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
-    <mxGraphModel dx="7307" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2964,10 +2964,10 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-56" value="globalLock&lt;br&gt;commit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="5454.87" y="-300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-57" value="&lt;br&gt;&lt;br&gt;localLock&lt;br&gt;prepare&lt;br&gt;commit/rollback" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-57" value="&lt;br&gt;&lt;br&gt;localLock" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5055.23" y="-310" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-58" value="DataSourceProxy&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;xid-undo_log&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;timerExecutor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-58" value="DataSourceProxy&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;xid-undo_log&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;timerExecutor" style="whiteSpace=wrap;html=1;;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="5055.23" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-59" value="name-server cluster" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4045,19 +4045,19 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-328" value="service1(TM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="5055.23" y="-310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-329" value="&lt;br&gt;&lt;br&gt;localLock&lt;br&gt;prepare&lt;br&gt;commit/rollback" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-329" value="......" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4835.54" y="-440" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-330" value="DataSourceProxy&lt;br&gt;xid-undo_log&lt;br&gt;timerExecutor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-330" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;......&lt;/span&gt;" style="whiteSpace=wrap;html=1;;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="4835.54" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-331" value="service2(RM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="4835.6900000000005" y="-440" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-332" value="&lt;br&gt;&lt;br&gt;localLock&lt;br&gt;prepare&lt;br&gt;commit/rollback" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-332" value="......" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4835.54" y="-160" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-333" value="DataSourceProxy&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;xid-undo_log&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;timerExecutor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-333" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;......&lt;/span&gt;" style="whiteSpace=wrap;html=1;;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="4835.54" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-334" value="service3(RM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
@@ -4753,6 +4753,9 @@
         </mxCell>
         <mxCell id="USxSuideq8Q494F9H64S-16" value="Rules" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1401" y="4987" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="USxSuideq8Q494F9H64S-18" value="undo_log表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4837" y="23" width="333" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
