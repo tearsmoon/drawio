@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T03:02:39.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="x4dcFQAiwunF9oLOmDJU" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T05:26:09.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="uspf_sGyFgTadeJVbVsl" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3970,7 +3970,7 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-298" value="csr：&lt;font color=&quot;#ff0000&quot;&gt;个人公钥&lt;/font&gt;，域名，&lt;font color=&quot;#ff0000&quot;&gt;个人私钥的签名&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5618.04" y="4465" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="QvNL8cjYNVi3jmxIVLEG-296" source="QvNL8cjYNVi3jmxIVLEG-300">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-300" target="QvNL8cjYNVi3jmxIVLEG-296" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5653.29" y="4537" as="targetPoint" />
             <mxPoint x="5828.79" y="4537" as="sourcePoint" />
@@ -3979,7 +3979,7 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-300" value="CA机构" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5854.5" y="4477" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-301" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.108;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="QvNL8cjYNVi3jmxIVLEG-300" edge="1" source="QvNL8cjYNVi3jmxIVLEG-296">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-301" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.108;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-296" target="QvNL8cjYNVi3jmxIVLEG-300" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5654.04" y="4497" as="sourcePoint" />
             <mxPoint x="5764.04" y="4507" as="targetPoint" />
@@ -4269,6 +4269,9 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-384" value="Envoy Proxy" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5735.79" y="6312.5" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="USxSuideq8Q494F9H64S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvNL8cjYNVi3jmxIVLEG-385" target="QvNL8cjYNVi3jmxIVLEG-390">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-385" value="Envoy Proxy" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5897.29" y="6315" width="120" height="40" as="geometry" />
         </mxCell>
@@ -4285,7 +4288,7 @@
           <mxGeometry x="5179.24" y="6700" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-390" value="Istiod&lt;br&gt;Control Plane" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5828.79" y="6610" width="120" height="60" as="geometry" />
+          <mxGeometry x="6170" y="6291.25" width="150" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-391" value="探针" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5659.29" y="6610" width="120" height="60" as="geometry" />
@@ -4733,7 +4736,7 @@
         <mxCell id="AYkzG7A6DdoDt-Ax8k8a-14" value="2MSL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5307.25" y="5507" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TxxSEqHQWX9NNc9FG_DS-1" value="Security Layer：TLS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TxxSEqHQWX9NNc9FG_DS-1" value="Security Layer：TLS" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4770" y="5337" width="141.5" height="60" as="geometry" />
         </mxCell>
       </root>
