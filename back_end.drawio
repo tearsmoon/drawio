@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T01:33:20.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Bldw3EFKwEYxcyO8i_0S" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T02:03:35.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YSfr7dEeH1mX860Ay_9J" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
-    <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7274" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3967,17 +3967,17 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-297" value="server&lt;br&gt;&lt;font color=&quot;#e51515&quot;&gt;个人私钥&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5471.79" y="4430" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-298" value="csr：公钥，域名，owner签名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5613.04" y="4467" width="180" height="30" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-298" value="csr：&lt;font color=&quot;#ff0000&quot;&gt;个人公钥&lt;/font&gt;，域名，&lt;font color=&quot;#ff0000&quot;&gt;个人私钥的签名&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5588.04" y="4467" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1" source="QvNL8cjYNVi3jmxIVLEG-300">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5617.29" y="4537" as="targetPoint" />
             <mxPoint x="5792.79" y="4537" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-300" value="CA机构" style="shape=or;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5794.79" y="4477" width="60" height="80" as="geometry" />
+          <mxGeometry x="5818.5" y="4477" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-301" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="QvNL8cjYNVi3jmxIVLEG-300" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3986,7 +3986,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-302" value="crt/pem证书链（&lt;font color=&quot;#f00f0f&quot;&gt;含CA签名&lt;/font&gt;）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5619.29" y="4537" width="180" height="30" as="geometry" />
+          <mxGeometry x="5629.79" y="4537" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-303" value="chrome/os&lt;br&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#e51f1f&quot;&gt;内置&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#e61919&quot;&gt;CA公钥&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4976.89" y="4430" width="90" height="40" as="geometry" />
@@ -4063,7 +4063,7 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-325" value="arp缓存表&lt;br&gt;（ip映射到mac）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4773.37" y="5547" width="138.12" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvNL8cjYNVi3jmxIVLEG-327" target="AYkzG7A6DdoDt-Ax8k8a-7">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-327" target="AYkzG7A6DdoDt-Ax8k8a-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-327" value="网关，连接子网&lt;br&gt;路由表：&lt;br&gt;目标IP(不变)，子网掩码，下一跳IP，端口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4341,7 +4341,7 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-407" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-408" target="QvNL8cjYNVi3jmxIVLEG-413" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-408" value="校验CA签名&lt;br&gt;验证域名" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-408" value="&lt;font color=&quot;#ff0000&quot;&gt;校验CA签名&lt;br&gt;验证域名&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4998.49" y="4655" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-409" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-410" target="QvNL8cjYNVi3jmxIVLEG-305" edge="1">
@@ -4453,7 +4453,7 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-441" value="交换机&lt;br&gt;连接子网" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4723.35" y="5860" width="292" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvNL8cjYNVi3jmxIVLEG-442" target="AYkzG7A6DdoDt-Ax8k8a-4">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-442" target="AYkzG7A6DdoDt-Ax8k8a-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-442" value="交换机&lt;br&gt;连接子网" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4709,29 +4709,32 @@
         <mxCell id="aE67SVIjbG9Zlr-X09Oq-7" value="create" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-4530" y="715" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-2" value="路由器1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-2" value="路由器1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5064.71" y="5840" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYkzG7A6DdoDt-Ax8k8a-3" target="QvNL8cjYNVi3jmxIVLEG-441">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AYkzG7A6DdoDt-Ax8k8a-3" target="QvNL8cjYNVi3jmxIVLEG-441" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-3" value="发送设备&lt;br&gt;arp" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-3" value="发送设备&lt;br&gt;arp" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4567.04" y="5855" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-4" value="接收设备&lt;br&gt;arp" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-4" value="接收设备&lt;br&gt;arp" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5977.46" y="5856" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYkzG7A6DdoDt-Ax8k8a-7" target="QvNL8cjYNVi3jmxIVLEG-442">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AYkzG7A6DdoDt-Ax8k8a-7" target="QvNL8cjYNVi3jmxIVLEG-442" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5358.58" y="5840" width="232" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-9" value="路由器2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-9" value="路由器2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5358.58" y="5840" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-14" value="2MSL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="AYkzG7A6DdoDt-Ax8k8a-14" value="2MSL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5307.25" y="5507" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TxxSEqHQWX9NNc9FG_DS-1" value="Security Layer：TLS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4770" y="5337" width="141.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
