@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T03:01:44.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gpRK2PFlUFPMPimkmhcI" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T05:12:03.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ARmDz2btpvWx0a5Ocpba" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2993,11 +2993,11 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-64" value="discovery" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5522.25" y="267.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-65" value="同步/异步&lt;br&gt;确认机制，重投&lt;br&gt;流控，LB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5355.04" y="387.5" width="110" height="60" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-65" value="同步/异步&lt;br&gt;重投&lt;br&gt;流控，LB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5375.04" y="387.5" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-66" value="pull/push&lt;br&gt;确认机制(ACK)，重试&lt;br&gt;流控，LB&lt;br&gt;过滤&lt;br&gt;回放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5338.58" y="561.5" width="140" height="90" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-66" value="pull/push&lt;br&gt;ACK机制&lt;br&gt;重试&lt;br&gt;流控，LB&lt;br&gt;过滤&lt;br&gt;回溯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5373.58" y="549.5" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-67" value="broker master-slave cluster 物理机器集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4854.75" y="345" width="240" height="30" as="geometry" />
