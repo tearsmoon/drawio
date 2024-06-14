@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T00:40:55.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vAfQCbL899ZGSI2QYqC3" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T00:41:27.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1f0f1I-3ge0sDqXU_c-d" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7079" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2961,7 +2961,7 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-55" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5041" y="3040" width="1070" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-56" value="globalLock&lt;br&gt;commit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-56" value="globalLock" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="5454.87" y="-300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-57" value="&lt;br&gt;local commit&lt;br&gt;tc commit/rollback" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
