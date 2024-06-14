@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T02:42:41.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="prF8KoRedi5L16h04RZS" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T03:01:44.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gpRK2PFlUFPMPimkmhcI" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7556" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4079,11 +4079,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-346" value="Consumer&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Producer&lt;br&gt;（RocketMQTemplate）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5904" y="366" width="145" height="74" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-346" value="MessageListener&lt;br&gt;MQTemplate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5904" y="361" width="145" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-347" value="Binder&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Binding&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Message&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;MessageChannel（poll/push）&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;StreamBridge&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BusBridge&amp;amp;Event" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5916.5" y="460" width="120" height="190" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-347" value="Binder&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Binding&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;StreamBridge" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5916.5" y="455" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-348" value="页级锁" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6709.75" y="2120" width="120" height="160" as="geometry" />
@@ -4732,6 +4732,9 @@
         </mxCell>
         <mxCell id="jCVPsUOXOO_bjehPryw1-2" value="brokerMaster2，brokerSlave2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4934.08" y="393" width="208.66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCVPsUOXOO_bjehPryw1-4" value="Event&lt;br&gt;BusBridge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5916.5" y="604" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
