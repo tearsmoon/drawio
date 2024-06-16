@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T11:05:13.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JLjNefS3TmBe8rO2iRBU" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T11:12:15.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4ZfWqtjTy7Uo5wgd2XI5" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7079" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
           <mxGeometry x="1107.25" y="2822.67" width="436.25" height="230" as="geometry" />
         </mxCell>
         <mxCell id="fSXdJqcKQk1bGgUf9QQ9-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1156.75" y="2862.69" width="330.25" height="157" as="geometry" />
+          <mxGeometry x="1156.75" y="2862.69" width="330.25" height="177.31" as="geometry" />
         </mxCell>
         <mxCell id="B2GjhQGrCiO4aPkmDRtn-16" value="SqlSessionFactory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1107.25" y="2822.6699999999996" width="120" height="30" as="geometry" />
@@ -235,10 +235,10 @@
           <mxGeometry x="1156.75" y="2862.6899999999996" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B2GjhQGrCiO4aPkmDRtn-9" value="mapperRegistry：mapper接口 映射到 MapperProxy" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1178.38" y="2954.25" width="289" height="40" as="geometry" />
+          <mxGeometry x="1177.3700000000001" y="2971.19" width="289" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B2GjhQGrCiO4aPkmDRtn-11" value="mappedStatements：xml" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1186.75" y="2899.25" width="272.25" height="40" as="geometry" />
+        <mxCell id="B2GjhQGrCiO4aPkmDRtn-11" value="mappedStatements：xml&lt;br&gt;MappedStatement.Cache" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1185.75" y="2901.94" width="272.25" height="49.25" as="geometry" />
         </mxCell>
         <mxCell id="B2GjhQGrCiO4aPkmDRtn-13" value="SqlSession" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1652.25" y="2813.5600000000004" width="80" height="30" as="geometry" />
