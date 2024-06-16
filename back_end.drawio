@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T16:37:51.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EA0qy6b_v-pX-ArDcU9P" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T17:02:51.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vGyueM09xIDqqhlzxVdC" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
-    <mxGraphModel dx="7079" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7291" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1662,7 +1662,7 @@
         <mxCell id="4NfpGm5UTweK7x1HskI5-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="4NfpGm5UTweK7x1HskI5-150" target="4NfpGm5UTweK7x1HskI5-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4NfpGm5UTweK7x1HskI5-150" value="SyncQueue&lt;br&gt;waiting thread&lt;br&gt;tail" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4NfpGm5UTweK7x1HskI5-150" value="&lt;b&gt;SyncQueue&lt;br&gt;waiting thread&lt;br&gt;tail&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-3962" y="2563" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4NfpGm5UTweK7x1HskI5-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="4NfpGm5UTweK7x1HskI5-152" target="4NfpGm5UTweK7x1HskI5-153" edge="1">
@@ -1674,7 +1674,7 @@
         <mxCell id="4NfpGm5UTweK7x1HskI5-153" value="ConditionQueue&lt;br&gt;waiting thread&lt;br&gt;tail" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-4302" y="2978" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4NfpGm5UTweK7x1HskI5-154" value="state&lt;br&gt;锁标记" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;rounded=0;endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="4NfpGm5UTweK7x1HskI5-154" value="state" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;rounded=0;endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-4413" y="2495" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="4NfpGm5UTweK7x1HskI5-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4NfpGm5UTweK7x1HskI5-157" target="4NfpGm5UTweK7x1HskI5-150" edge="1">
@@ -1683,7 +1683,7 @@
         <mxCell id="4NfpGm5UTweK7x1HskI5-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4NfpGm5UTweK7x1HskI5-157" target="4NfpGm5UTweK7x1HskI5-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4NfpGm5UTweK7x1HskI5-157" value="当前线程尝试获取锁&lt;br&gt;例如cas修改state" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4NfpGm5UTweK7x1HskI5-157" value="当前线程尝试获取锁&lt;br&gt;即cas修改state" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-4472" y="2309" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4NfpGm5UTweK7x1HskI5-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="4NfpGm5UTweK7x1HskI5-160" target="4NfpGm5UTweK7x1HskI5-150" edge="1">
@@ -1713,7 +1713,7 @@
         <mxCell id="4NfpGm5UTweK7x1HskI5-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="4NfpGm5UTweK7x1HskI5-167" target="4NfpGm5UTweK7x1HskI5-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4NfpGm5UTweK7x1HskI5-167" value="SyncQueue&lt;br&gt;null head" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4NfpGm5UTweK7x1HskI5-167" value="&lt;b&gt;SyncQueue&lt;br&gt;null head&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-4587" y="2563" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4NfpGm5UTweK7x1HskI5-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="4NfpGm5UTweK7x1HskI5-169" target="4NfpGm5UTweK7x1HskI5-171" edge="1">
