@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T01:04:39.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YqUSkiF7IvLJYROMjxWp" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T01:17:53.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="DW81hl3B0dp3BkvF18VM" version="24.5.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
     <mxGraphModel dx="7370" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,13 +141,13 @@
         <mxCell id="bRzhSNUkCXG9VYMOEZEB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aqGw6CmQRWcVKoaSbXMj-1" target="aqGw6CmQRWcVKoaSbXMj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqGw6CmQRWcVKoaSbXMj-1" value="DefaultSingletonBeanRegistry&lt;br&gt;三级缓存&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;防止同时创建同名bean并将bean的创建逻辑开放给下一层&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;向3L添加一个ObjectFactory&lt;br&gt;向1L缓存添加一个bean&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aqGw6CmQRWcVKoaSbXMj-1" value="DefaultSingletonBeanRegistry&lt;br&gt;三级缓存&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;防止同时创建同名bean并将bean的创建逻辑开放给下一层&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="96.72000000000003" y="-106" width="350" height="115" as="geometry" />
         </mxCell>
         <mxCell id="bRzhSNUkCXG9VYMOEZEB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aqGw6CmQRWcVKoaSbXMj-2" target="aqGw6CmQRWcVKoaSbXMj-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqGw6CmQRWcVKoaSbXMj-2" value="AbstractAutowireCapableBeanFactory&lt;br&gt;刚实例化但未初始化的bean用lambda包装成getEarlyBeanReference()后丢到3L&lt;br&gt;实例化前后、初始化前后、销毁前后的钩子&lt;br&gt;Aware&lt;br&gt;postProcessProperties/determineCandidateConstructors触发自动注入&lt;br&gt;循环依赖&lt;br&gt;循环依赖和代理下的AOP，重复创建代理对象问题&lt;br&gt;getEarlyBeanReference/postProcessAfterInitialization触发AOP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aqGw6CmQRWcVKoaSbXMj-2" value="AbstractAutowireCapableBeanFactory&lt;br&gt;刚实例化但未初始化的bean用lambda+getEarlyBeanReference()包装成&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ObjectFactory后丢到3L&lt;/span&gt;&lt;/div&gt;实例化前后、初始化前后、销毁前后的钩子&lt;br&gt;Aware钩子&lt;br&gt;postProcessProperties/determineCandidateConstructors触发自动注入&lt;br&gt;循环依赖&lt;br&gt;循环依赖和代理下的AOP，重复创建代理对象问题&lt;br&gt;getEarlyBeanReference/postProcessAfterInitialization触发AOP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="48.45" y="83" width="446.55" height="167" as="geometry" />
         </mxCell>
         <mxCell id="aqGw6CmQRWcVKoaSbXMj-3" value="DefaultListableBeanFactory&lt;br&gt;beanDefinitionMap&lt;br&gt;访问bean的api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
