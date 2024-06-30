@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T01:41:58.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3mQB_w-l8tt3mQTVWSAq" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T04:28:34.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lprJpgfjoAlOMTs0MXVk" version="24.6.4" type="github">
   <diagram id="XrqOb0yFJwFmkotN1X54" name="Page-1">
-    <mxGraphModel dx="7079" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7291" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3845,8 +3845,8 @@
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-341" value="GlobalTransactionalInterceptor&lt;br&gt;事务分支&lt;br&gt;xid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5209.18" y="-408.5" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QvNL8cjYNVi3jmxIVLEG-343" value="xid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="5079.71" y="-229.5" width="40" height="30" as="geometry" />
+        <mxCell id="QvNL8cjYNVi3jmxIVLEG-343" value="HandlerIntercepter：xid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5043.41" y="-229.75" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QvNL8cjYNVi3jmxIVLEG-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QvNL8cjYNVi3jmxIVLEG-17" target="QvNL8cjYNVi3jmxIVLEG-60" edge="1">
           <mxGeometry relative="1" as="geometry">
